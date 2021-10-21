@@ -1,0 +1,1 @@
+This is a Project involved in creating my first concise webpage, including certain recipes. The objective is to learn the basics of HTML as well as Git.
